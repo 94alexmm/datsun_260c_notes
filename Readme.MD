@@ -40,3 +40,13 @@ See https://www.autofrenseinsa.com/sites/default/files/catalogos/brake-catalogue
 
 ## Rear boot seal
 Holden captiva boot seal fits perfect length wise but is the wrong extrusion. Cut inner part of seal to allow latch to fit
+
+## Front suspension lowering
+Use HQ Holden front coil springs
+V8 Springs standard height will raise it around 10mm
+Can cut factory V8 springs or alternatively buy 6cyl springs or lowered V8 springs
+
+## Rear lowering
+Use an AU Falcon block kit
+The U bolts fit as-is
+The block needs to be bored out slightly in order to seat on spring. Top ideally needs a bush to make larger.
