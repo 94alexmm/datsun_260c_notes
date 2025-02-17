@@ -12,9 +12,16 @@ https://www.ebay.com.au/sch/i.html?_ssn=just_brake_hoses&store_name=autopartsonl
 
 ## Front windscreens
 There are at least 3 types. 
-Sedan and wagon - H230 is different from a H330 (they do not interchange)
+
+### Sedan and wagon
+
+H230 is different from a H330 (they do not interchange)
+
 H230 Part no is Fuyao Glass 999992 (1448mm wide by 612mm high.)
-Coupe - Uses a different windscreen again I believe
+
+### Coupe
+
+Uses a different windscreen again I believe
 
 ## Wheels
 Stud pattern 5x114.3
