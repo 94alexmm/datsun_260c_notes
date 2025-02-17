@@ -27,9 +27,15 @@ H230 is different from a H330 (they do not interchange)
 
 H230 Part no is Fuyao Glass 999992 (1448mm wide by 612mm high.)
 
+
 ### Coupe
 
 Uses a different windscreen again I believe
+
+## Rear window
+### Seal
+https://www.ebay.com.au/itm/184742539675?_skw=260c&itmmeta=01JM9W86JSNAAN3CA1Z1P8BRDG&hash=item2b0383719b:g:MmsAAOSwHHFgZ-AK
+Fits H230. Unsure if this is the same as H330
 
 ## Wheels
 Stud pattern 5x114.3
