@@ -1,5 +1,13 @@
 # Datsun 260C Notes
 
+Also known as the H230 or H330 Cedric.
+
+## Engine
+L26 with downdraft carburetor
+
+## Trans
+Jatco L3N71B or 4 Spd manual 71B
+
 ## Brake master cylinder
 Use Datsun 260Z 22.22mm Tokico (It is identical)
 
@@ -26,3 +34,9 @@ Uses a different windscreen again I believe
 ## Wheels
 Stud pattern 5x114.3
 
+## Rear wheel cylinder
+Appears to change over the years
+See https://www.autofrenseinsa.com/sites/default/files/catalogos/brake-catalogue-2019-autofren.pdf
+
+## Rear boot seal
+Holden captiva boot seal fits perfect length wise but is the wrong extrusion. Cut inner part of seal to allow latch to fit
