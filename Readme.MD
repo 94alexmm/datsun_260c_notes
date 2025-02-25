@@ -23,9 +23,9 @@ There are at least 3 types.
 
 ### Sedan and wagon
 
-H230 is different from a H330 (they do not interchange)
+H330 4 door sedan - H230 is different from a H330 (they do not interchange)part no is Fuyao glass 999991
 
-H230 Part no is Fuyao Glass 999992 (1448mm wide by 612mm high.)
+H230 4 door sedan - Part no is Fuyao Glass 999992 (1448mm wide by 612mm high.)
 
 
 ### Coupe
@@ -43,6 +43,10 @@ Stud pattern 5x114.3
 ## Rear wheel cylinder
 Appears to change over the years
 See https://www.autofrenseinsa.com/sites/default/files/catalogos/brake-catalogue-2019-autofren.pdf
+
+Late 260Z wheel cylinders fit. the bore does not match though. originally 3/4. Z car is 7/8. brake hose and bleeder are on opposite sides.
+
+
 
 ## Rear boot seal
 Holden captiva boot seal fits perfect length wise but is the wrong extrusion. Cut inner part of seal to allow latch to fit
