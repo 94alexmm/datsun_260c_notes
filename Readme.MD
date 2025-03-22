@@ -34,11 +34,29 @@ Uses a different windscreen again I believe
 
 ## Rear window
 ### Seal
+
 https://www.ebay.com.au/itm/184742539675?_skw=260c&itmmeta=01JM9W86JSNAAN3CA1Z1P8BRDG&hash=item2b0383719b:g:MmsAAOSwHHFgZ-AK
 Fits H230. Unsure if this is the same as H330
 
 ## Wheels
 Stud pattern 5x114.3
+
+## Steering
+
+2x TE432R tie rod ends
+2x TE546L tie rod ends 
+
+### Idler arm
+2 Types:
+
+#### SX4221
+
+Early H230 uses SX4221. This is the same as a D21 navara so is still easy to obtain.
+
+#### SX260C
+
+Late H230 and H330 use SX260C which appears to no longer be available based on FB posts. this mounts to the chassis rail using 2x M10x1.25x80mm bolts.
+
 
 ## Rear wheel cylinder
 Appears to change over the years
