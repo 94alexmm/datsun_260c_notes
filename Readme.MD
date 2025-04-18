@@ -11,6 +11,20 @@ Jatco L3N71B or 4 Spd manual 71B
 ## Brake master cylinder
 Use Datsun 260Z 22.22mm Tokico (It is identical)
 
+## Brake booster
+As an alternative to the factory booster a Hilux booster and master cylinder can be used.
+LN107 booster fits with a corresponding Hilux master cylinder.
+
+it shares the same firewall bolt pattern. No drilling cutting etc required 
+
+The following changes are required:
+- use the original pedal clevis pin
+- use the original aluminium spacer
+- remove the rubber grommet from the spacer
+- Use a longer rubber hose for the vaccum(you can't mount the booster upside down to avoid this as it's not symmetrical "
+- Clearance the throttle cable shroud slightly. use a hammer and a blunt cylindrical object to change the shape slightly.
+- Make two new short lines to adapt the master cylinder. it's ports go to the left rather than down. they use m10x1 thread pitch ends. double flared 
+
 ## Front brake pads
 Use Datsun 260Z. Uses same Sumitomo calipers. Can be upgraded to same hilux 4 pots. Unsure of disc to use at this time. See Z forums
 
