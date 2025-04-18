@@ -5,8 +5,13 @@ Also known as the H230 or H330 Cedric.
 ## Engine
 L26 with downdraft carburetor
 
-## Trans
+## Transmission/ Gearbox
+Factory:
 Jatco L3N71B or 4 Spd manual 71B
+
+Can be swapped with:
+- 5spd 71b.
+- 5spd 71c out of a VL commodore or R31 skyline(Needs L28 bell housing bolted on, use smaller L28 input shaft bearing, or resize L28 bellhousing to fit a RB input shaft bearing)
 
 ## Brake master cylinder
 Use Datsun 260Z 22.22mm Tokico (It is identical)
