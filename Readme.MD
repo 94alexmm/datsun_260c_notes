@@ -92,3 +92,12 @@ Can cut factory V8 springs or alternatively buy 6cyl springs or lowered V8 sprin
 Use an AU Falcon block kit
 The U bolts fit as-is
 The block needs to be bored out slightly in order to seat on spring. Top ideally needs a bush to make larger.
+
+## Door belt molding
+
+Use commodore belt molding VB,VC, VH. It can be purchased per Meter for as little as $5 per metre.
+You will need approximately 3.5m
+
+The rear part of the extrusion needs to be cut off with a razor blade to ensure its flat. Run the razor parallel to the long edge or the extrusion to trim it down. This will take roughly 15mins to do all 4.
+
+https://www.alpoz.com.au/product/fl017-options/
